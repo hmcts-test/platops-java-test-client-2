@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: platops-java-client-3
+  description: hello
+  annotations:
+    github.com/project-slug: ''
+  tags:
+    - library
+    - platops-java-client-3
+spec:
+  type: library
+  lifecycle: experimental
+  owner: dts_platform_operations
